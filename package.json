@@ -1297,7 +1297,7 @@
     "configstore": "5.0.1",
     "extract-opts": "2.2.0",
     "flatten-source-map": "0.0.2",
-    "glob": "7.1.6",
+    "glob": "9.0.0",
     "ip": "1.1.5",
     "js-base64": "3.7.5",
     "json5": "^1.0.1",
